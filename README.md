@@ -1,4 +1,6 @@
 # RobBot-Art Assets
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frobbot-discord%2FRobBot-Art.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frobbot-discord%2FRobBot-Art?ref=badge_shield)
+
 
 This repository contains various art assets.
 
@@ -8,6 +10,9 @@ The content of this project itself is licensed under the [Creative Commons Attri
 Any code in this repository used is licensed under the [MIT license](LICENSE.md).
 
 All 3rd-party assets are used under the licenses noted below.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frobbot-discord%2FRobBot-Art.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frobbot-discord%2FRobBot-Art?ref=badge_large)
 
 ## Font
 
